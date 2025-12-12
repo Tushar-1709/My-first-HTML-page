@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Code</title>
+    <style>
+        body {
+            background-color: yellow;
+            font-size: 10px;
+            font-family: Arial;
+            padding: 20px;
+        }
+        table {
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 8px;
+        }
+    </style>
+</head>
+
+<body>
+
+<p style="font-size:30px;">I am learning HTML</p>
+
+<table border="0">
+    <tr>
+        <td>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAmcroBjWP2Zdv1R-yU91cScfrcvY7kai-eg&s">
+        </td>
+        <td>
+            <p style="font-size:50px;">Sanjivani College of Engineering</p>
+        </td>
+    </tr>
+</table>
+
+<a href="https://sanjivanicoe.org.in/" style="font-size:20px;">Link for SCOE Website</a>
+
+<h1>Department: Electrical</h1>
+
+<ul>
+    <li>Name: Tushar Junghare</li>
+    <li>Roll No: 44</li>
+</ul>
+
+<table border="2">
+    <tr>
+        <th>Sr. No</th>
+        <th>Boards</th>
+        <th>Percentage</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>10th Board</td>
+        <td>83.60%</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>12th Board</td>
+        <td>74.33%</td>
+    </tr>
+</table>
+
+</body>
+</html>
